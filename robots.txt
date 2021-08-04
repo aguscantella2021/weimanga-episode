@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weimanga-episode.herokuapp.com/sitemap.xml
+Sitemap: https://weimanga-episode.herokuapp.com/host-https-weimanga.com/sitemap_index.xml
